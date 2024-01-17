@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=u j u n g &fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header>
 - 👋 Hi, I’m @yousrchive
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
