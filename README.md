@@ -33,18 +33,3 @@
 	</a>
 	<br>
 </div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousrchive&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=yousrchive&show_icons=true">
-
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=yousrchive)
-
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yousrchive)](https://solved.ac/kycasdzxc)
-</div>
-<br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
