@@ -94,13 +94,3 @@
 | **디어케이** | PM | 내게 핏(fit)한 레터링케이크 주문 플랫폼  |
 | **치이이즈** | PM | 7일 제한 사진 공유 앨범 서비스 · **우수상 수상**  |
 
----
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=yousrchive&show_icons=true&theme=swift"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousrchive&layout=compact&theme=swift"/>
-</div>
-
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyousrchive&count_bg=%23F4A7B9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
