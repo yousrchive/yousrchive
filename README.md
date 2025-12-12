@@ -37,9 +37,7 @@
 
 **Backend**
 <div>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
 </div>
 
 **Frontend / Mobile**
@@ -54,7 +52,6 @@
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=white"/>
 </div>
 
 ---
