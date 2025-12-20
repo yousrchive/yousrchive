@@ -49,7 +49,6 @@
 
 **Infra / Tools**
 <div>
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/NCP-03C75A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
