@@ -3,7 +3,7 @@
 <h3>😊 About Me</h3>
 
 <div>
-  <a href="https://innate-dandelion-462.notion.site/2c7be8d7365780d8a2a7fb4508cc6d58?source=copy_link">
+  <a href="https://innate-dandelion-462.notion.site/Data-Analyst-16fbe8d73657800e801bc5506eb3f071?source=copy_link">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   </a>
   <a href="mailto:luna3326@naver.com">
