@@ -91,9 +91,10 @@
 
 | 자격증명 | 취득일자
 |---|---|
+| **AWS certified solutions architect – associate** | 2026 |
 | **SQL 개발자 (SQLD)** | 2024 |
 | **ADsP (데이터분석 준전문가)** | 2024 |
-| **Microsoft Azure AI-900**  | 2023.11.30 |
+| **Microsoft Azure AI-900**  | 2023 |
 | **OPIc IH**    | 2025 |
 | **JLPT N4**    | 2021 |
 | **투자자산운용사**    | 2025 |
